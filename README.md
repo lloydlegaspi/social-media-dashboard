@@ -44,7 +44,7 @@ This project is not yet deployed.
 
 ## Feedback and Contact
 
-Feedback is always appreciated as it helps in improving skills and techniques. If you have any suggestions or questions regarding this project, feel free to reach out to me at [your@email.com](mailto:jlloyd.legaspi@email.com).
+Feedback is always appreciated as it helps in improving skills and techniques. If you have any suggestions or questions regarding this project, feel free to reach out to me at [jlloyd.legaspi@gmail.com](mailto:jlloyd.legaspi@gmail.com).
 
 Thank you once again for checking out this project! 🚀
 
