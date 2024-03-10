@@ -40,11 +40,11 @@ The project's assets and designs are located in the `/design` folder. All requir
 
 ## Deployment
 
-This project is deployed using [GitHub Pages](https://pages.github.com/). You can access the live version [here](#insert-live-url).
+This project is not yet deployed.
 
 ## Feedback and Contact
 
-Feedback is always appreciated as it helps in improving skills and techniques. If you have any suggestions or questions regarding this project, feel free to reach out to me at [your@email.com](mailto:your@email.com).
+Feedback is always appreciated as it helps in improving skills and techniques. If you have any suggestions or questions regarding this project, feel free to reach out to me at [your@email.com](mailto:jlloyd.legaspi@email.com).
 
 Thank you once again for checking out this project! 🚀
 
