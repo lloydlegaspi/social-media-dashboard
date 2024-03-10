@@ -69,6 +69,7 @@
     &__subtitle {
         font-size: rem(14);
         font-weight: 700;
+        color: var(--text-color2);
     }
 
     &__icon {
@@ -98,7 +99,7 @@
     }
 
     &__count {
-        color: var(--light-bg);
+        color: var(--text-color);
         font-weight: 700;
         letter-spacing: rem(-2);
         line-height: 1;
@@ -117,7 +118,7 @@
         font-size: rem(12);
         letter-spacing: rem(5);
         font-weight: 400;
-        color: var(--dark-text1);
+        color: var(--text-color2);
         text-transform: uppercase;
         
 
