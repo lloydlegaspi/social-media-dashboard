@@ -3,6 +3,9 @@
 
 A responsive social media dashboard with a dark/light theme switcher built using HTML, SCSS, and JavaScript. This project was completed as a challenge from Frontend Mentor. The goal was to replicate the design as closely as possible while maintaining responsive and accessible UI elements.
 
+## 🌐 Live Site  
+[Social Media Dashboard](https://social-media-dashboard-lloyd.netlify.app/)
+
 ## 🔘 Table of Contents
 1. 🔄 [Preview](#-preview)
 2. 📄 [Challenge](#-challenge)
