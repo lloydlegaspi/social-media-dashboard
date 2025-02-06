@@ -11,7 +11,7 @@ A responsive social media dashboard with a dark/light theme switcher built using
 5. 📂 [Project Structure](#-project-structure)
 6. 📖 [How to Run](#-how-to-run)
 7. 🤝 [Browser Support](#-browser-support)
-8. 📄 [Credits](#credits)
+8. 📄 [Credits](#-credits)
 
 ## 🔄 Preview
 ![Design preview for the Social media dashboard with theme switcher coding challenge](./design/desktop-preview.jpg)
