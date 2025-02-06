@@ -38,14 +38,6 @@ The challenge involved building a Social Media Dashboard with a theme switcher f
 
 The project's assets and designs are located in the `/design` folder. All required assets are available in the `/images` folder. Detailed information regarding color palette and fonts can be found in the `style-guide.md` file.
 
-## Deployment
-
-This project is not yet deployed.
-
-## Feedback and Contact
-
-Feedback is always appreciated as it helps in improving skills and techniques. If you have any suggestions or questions regarding this project, feel free to reach out to me at [jlloyd.legaspi@gmail.com](mailto:jlloyd.legaspi@gmail.com).
-
 Thank you once again for checking out this project! 🚀
 
 
